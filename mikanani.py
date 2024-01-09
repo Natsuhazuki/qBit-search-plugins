@@ -34,7 +34,7 @@ class mikanani(object):
     """Class used by qBittorrent to search for torrents."""
 
     url = 'https://mikanime.tv'
-    name = 'mikanani'
+    name = 'mikanime.tv'
 
     ###########################################################################
 
