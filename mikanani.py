@@ -33,7 +33,7 @@ except ModuleNotFoundError:
 class mikanani(object):
     """Class used by qBittorrent to search for torrents."""
 
-    url = 'https://mikanani.me'
+    url = 'https://mikanime.tv'
     name = 'mikanani'
 
     ###########################################################################
