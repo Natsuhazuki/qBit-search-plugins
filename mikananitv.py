@@ -30,7 +30,7 @@ except ModuleNotFoundError:
     pass
 
 
-class mikanani(object):
+class mikananitv(object):
     """Class used by qBittorrent to search for torrents."""
 
     url = 'https://mikanime.tv'
